@@ -1,3 +1,3 @@
 # Coldest-Rage
 [I will start writing my blog here]
-(https://arqib.github.io/my_blog/)
+(https://arqib.github.io/Coldest-Rage/)
